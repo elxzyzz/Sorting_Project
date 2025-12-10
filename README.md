@@ -3,7 +3,7 @@
 A Python app to visualize the Bubble Sort algorithm using a simple GUI.
 
 ## Project Links
-- **Hugging Face App:** [https://huggingface.co/spaces/YuchengChen/Sorting-Project]
+- **Hugging Face App:** [https://huggingface.co/spaces/YuchengChen/Bubble-Sort-Visualizer]
 - **GitHub Repository:** [https://github.com/elxzyzz/Sorting_Project]
 
 ## Demo
@@ -34,5 +34,6 @@ I verified the app with these test cases:
 - **Course:** CISC-121
 
 - **Project:** Search/Sort Algorithm Visualization
+
 
 
