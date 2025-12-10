@@ -18,7 +18,7 @@ I applied the four pillars of computational thinking to plan this project:
 4. **Algorithm Design:** Flow: `User Input` -> `Check Errors` -> `Sort & Log Steps` -> `Update Screen`.
 
 ### Algorithm Flowchart
-![Flowchart](flowchart.png)
+![Flowchart](flowchart.jpg)
 
 ## How to Run
 1. Install requirements: `pip install -r requirements.txt`
@@ -34,3 +34,4 @@ I verified the app with these test cases:
 - **Course:** CISC-121
 
 - **Project:** Search/Sort Algorithm Visualization
+
